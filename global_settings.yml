@@ -1,1 +1,4 @@
 object_type: global_settings
+overrides:
+    "query.includeComments.general.queryId": true
+    "query.includeComments.general.userId": true
